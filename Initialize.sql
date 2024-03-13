@@ -1,0 +1,14 @@
+DROP DATABASE pixiedustmain;
+CREATE DATABASE pixiedustmain;
+DROP TABLE agent CASCADE;
+DROP TABLE customer CASCADE;
+DROP TABLE order_recipient CASCADE;
+DROP TABLE ordered_product CASCADE;
+DROP TABLE orders CASCADE;
+DROP TABLE person CASCADE;
+DROP TABLE product CASCADE;
+DROP TABLE product_color_stock CASCADE;
+DROP TABLE product_features CASCADE;
+DROP TABLE product_folders CASCADE;
+DROP TABLE product_pen_organizers CASCADE;
+DROP TABLE product_planners CASCADE;
